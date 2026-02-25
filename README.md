@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student who still studying SNG-COM at ST
+I'm a student who still studying SNG-COM at ST.
 - I love to code smth in my free time, I also like Electronics.
 - I'm also AvGeek.
 - I'm also run small homeserver in Proxmox.
