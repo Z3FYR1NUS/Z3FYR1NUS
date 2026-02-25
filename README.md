@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning Typescript.<br>I'm INTP-A, love programming, Electronics. I'm also  AvGeek, <br>nice to meet you here. OwO
+Currently learning Typescript and Web Dev.<br>I'm INTP-A, love programming, Electronics. I'm also  AvGeek, <br>nice to meet you here. OwO
 
 
 ## 🌐 Socials:
