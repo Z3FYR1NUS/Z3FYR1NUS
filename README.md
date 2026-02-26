@@ -3,7 +3,7 @@ I'm a student who still studying SNG-COM at ST.
 - I love to code smth in my free time, I also like Electronics.
 - I'm also AvGeek.
 - I'm also run small homeserver using Proxmox.
-
+- I'm still learning Web Development and Typescript, wish me luck!
   Nice to meet you here OwO
 
 ## 🌐 Socials:
